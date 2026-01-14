@@ -39,11 +39,11 @@
   * [Progress](#progress)
   * [Tech Stack](#tech-stack)
   * [Features](#features)
-  * [Environment Variables](#environment-variables)
+  <!-- * [Environment Variables](#environment-variables) -->
   * [Roadmap](#roadmap)
-- [Getting Started](#getting-started)
+<!-- - [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
-  * [Setup](#setup)
+  * [Setup](#setup) -->
 <!--  * [Usage Guide](#usage-guide) -->
 
   
